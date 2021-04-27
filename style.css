@@ -909,6 +909,14 @@ h2{
         position: absolute;
         bottom:0;
     }
+	#ancreensavoirplus h3 {
+    margin-top: 20px;
+		margin-bottom: 20px;
+		
+	}
+	#ancreensavoirplus p{
+		font-size: 17px;
+	}
     .fullleft{
         overflow: inherit;
     }
